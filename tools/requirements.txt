@@ -1,5 +1,9 @@
 coloredlogs
-more_itertools
 pytest
 matplotlib
-tempfile
+astropy
+scipy
+pandas
+seaborn
+more_itertools
+tabulate

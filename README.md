@@ -2,11 +2,17 @@
 
 🐉📈
 
+Generate dragon diagrams from uvfits using Blender
+
+![DragonDiagram-Charizard](img/DragonDiagram-Charizard.png)
+
 ## Repo Structure
 
 - **tools** - Python utility scripts that mostly interface with Blender
   - **dragon_diagram.py** - 🐉📈
 - **tests** - Tests for Python Utilities
+- **3d** - 3d asset location
+- **data** - put uvfits files here
 
 ## Python Utility Scripts (`tools`)
 
